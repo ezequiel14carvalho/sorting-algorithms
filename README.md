@@ -10,4 +10,4 @@ Este repositório consolida a implementação e a análise de desempenho dos pri
 
 Abaixo estão as implementações e análises presentes neste repositório.
 
-* **`bubble_sort` / `insertion_sort` / `selection_sort`:** Implementações dos algoritmos clássicos. Estudo sobre as abordagens mais simples e suas aplicações ideais em conjuntos de dados quase ordenados.
+* **`bubble_sort` / `insertion_sort` / `selection_sort` / `counting_sort`:** Implementações dos algoritmos clássicos. Estudo sobre as abordagens mais simples e suas aplicações ideais em conjuntos de dados quase ordenados.
